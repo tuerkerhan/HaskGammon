@@ -1,6 +1,7 @@
 # HaskGammon README
 
 ## Overview
+<img width="1829" height="1174" alt="image" src="https://github.com/user-attachments/assets/34c9d6bf-92e1-4582-8bbc-22d5ec954bb1" />
 
 **HaskGammon** is a backgammon game implemented in Haskell, using the Gloss library for graphical rendering. This project showcases a simple, yet functional version of the classic board game, complete with basic gameplay mechanics such as dice rolling, player turns, and move validations.
 
@@ -34,6 +35,7 @@ Clone the repository and navigate to the project directory:
 git clone https://github.com/yourusername/haskgammon.git
 cd haskgammon
 ```
+
 
 Compile and run the project using Cabal or Stack:
 
